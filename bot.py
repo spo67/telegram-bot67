@@ -37,7 +37,7 @@ def sub_kb():
 
 def final_kb():
     return InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="💬 تواصل معي", url="https://t.me/ForexSmile")]
+        [InlineKeyboardButton(text="💬 تواصل معي", url="https://t.me/Faditr")]
     ])
 
 # --- START ---
