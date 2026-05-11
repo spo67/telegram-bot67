@@ -7,10 +7,9 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, FSInputFile
 from aiogram.filters import CommandStart
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "8662457235:AAFMtqdDfNge7fNr5az_FjTePdpubvoWuCo"
 CHANNEL_LINK = "https://t.me/+2DZuWdY6qFw5ZmE6"
 ADMIN_ID = 420441017
-
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(BOT_TOKEN)
